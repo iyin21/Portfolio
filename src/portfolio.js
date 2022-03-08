@@ -11,7 +11,7 @@ const about = {
   name: 'Iyinoluwa Oluleke',
   role: 'Front End Engineer',
   description:
-    'An enthusiastic front end developer with drive and determination needed to resolve complex issues. Developed commercial applications for service-based businesses. Eager to contribute to team success through hard work, attention to detail and excellent organizational skills. In short I love to create technology with the main goal of solving real-life problem and create value for humanity.',
+    'An enthusiastic front end developer with drive and determination needed to resolve complex issues. Developed commercial applications for service-based businesses. Eager to contribute to team success through hard work, attention to detail and excellent organizational skills. In short I love to create technology with the main goal of solving real-life problems and create value for humanity.',
   resume: Resume,
   social: {
     linkedin: 'https://www.linkedin.com/in/iyinoluwa-oluleke-31a51714b/',
