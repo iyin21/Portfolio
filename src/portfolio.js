@@ -1,4 +1,4 @@
-import Resume from './utils/Iyin_Oluleke_VisualCV_Resume.pdf';
+import Resume from './utils/Iyin_Oluleke_Resume.pdf';
 
 const header = {
   // all the properties are optional - can be left empty or deleted
@@ -28,7 +28,7 @@ const projects = [
       "Virtual Medical Clinic is a virtual hospital where people can participate in the end to end flow of medical examination. People will be able to register as patients, book consultations with medical professionals, be attended to by the medical professionals, receive prognosis (or diagnosis), get prescriptions and/or be referred to physical hospitals where necessary.",
     stack: ['SASS', 'TypeScript', 'React'],
     // sourceCode: 'https://github.com',
-    livePreview: 'https://vmc.workcube.com.ng',
+    livePreview: 'https://www.vmcnigeria.com',
   },
   {
     name: 'Virtual Medic Clinic(Medic)',
@@ -36,7 +36,7 @@ const projects = [
       "Virtual Medical Clinic is a virtual hospital where people can participate in the end to end flow of medical examination. People will be able to register as patients, book consultations with medical professionals, be attended to by the medical professionals, receive prognosis (or diagnosis), get prescriptions and/or be referred to physical hospitals where necessary.",
     stack: ['SASS', 'TypeScript', 'React'],
     // sourceCode: 'https://github.com',
-    livePreview: 'https://vmc-medic.workcube.com.ng',
+    livePreview: 'https://www.medic.vmcnigeria.com',
   },
   {
     name: "Ify's kitchen",
