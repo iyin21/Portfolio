@@ -23,10 +23,19 @@ const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
   {
+    name: 'Voriancorelli matching app',
+    description:
+      "Voriancorelli is a agric/food commodities value chain aggregator platform (like a marketplace) to match Commodities Aggregators/Large Scale farmers/Food suppliers (Like Thrive Agric) with Food Processors that need their Supplies (Honeywell, Dangote, Flourmills, etc).",   
+    stack: ['Nextjs', 'TypeScript', 'Tailwind CSS'],
+    // sourceCode: 'https://github.com',
+    
+    livePreview: 'https://voriancorelli-frontend-two.vercel.app/',
+  },
+  {
     name: 'Virtual Medic Clinic(patient)',
     description:
       "Virtual Medical Clinic is a virtual hospital where people can participate in the end to end flow of medical examination. People will be able to register as patients, book consultations with medical professionals, be attended to by the medical professionals, receive prognosis (or diagnosis), get prescriptions and/or be referred to physical hospitals where necessary.",
-    stack: ['SASS', 'TypeScript', 'React'],
+      stack: ['SASS', 'TypeScript', 'React'],
     // sourceCode: 'https://github.com',
     livePreview: 'https://www.vmcnigeria.com',
   },
