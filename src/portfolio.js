@@ -100,6 +100,8 @@ const skills = [
   'React',
   'Redux',
   'SASS',
+  'wix',
+  'webflow',
   'Material UI',
   'Git',
   'Nodejs'
