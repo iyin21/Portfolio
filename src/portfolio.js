@@ -32,6 +32,15 @@ const projects = [
     livePreview: 'https://voriancorelli-frontend-two.vercel.app/',
   },
   {
+    name: 'Enterprising Ventures of color',
+    description:
+      "Enterprising Ventures of color is a platform for empowering nonprofits, and Catalyzing change",   
+    stack: ['Wix'],
+    // sourceCode: 'https://github.com',
+    
+    livePreview: 'https://www.enventofcolor.com/',
+  },
+  {
     name: 'Virtual Medic Clinic(patient)',
     description:
       "Virtual Medical Clinic is a virtual hospital where people can participate in the end to end flow of medical examination. People will be able to register as patients, book consultations with medical professionals, be attended to by the medical professionals, receive prognosis (or diagnosis), get prescriptions and/or be referred to physical hospitals where necessary.",
