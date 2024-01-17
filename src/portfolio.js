@@ -22,6 +22,7 @@ const about = {
 const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
+  
   {
     name: 'Voriancorelli matching app',
     description:
@@ -30,6 +31,53 @@ const projects = [
     // sourceCode: 'https://github.com',
     
     livePreview: 'https://voriancorelli-frontend-two.vercel.app/',
+  },
+  {
+    name: "Finder's force",
+    description:
+      "A platform that matches operatives(individuals with the right skill set looking for temp jobs) to depots(companies, organizations or individuals interested in listing temp job roles on the platform with the sole aim of linking operatives with the right skillset) seamlessly and  allows endless job opportunities for operatives without fear of being underpaid ",   
+    stack: ['React', 'TypeScript', 'Tailwind CSS'],
+    // sourceCode: 'https://github.com',
+    
+    livePreview: 'https://ff.iqubesolutions.com.ng',
+  },
+  {
+    name: 'Admin Rokswood Gas',
+    description:
+      "This is an admin platform that monitors gas orders, registers and approves customers and agents to the platform, data management ans set gas rates.",   
+    stack: ['Reactjs', 'TypeScript', 'Tailwind CSS'],
+    // sourceCode: 'https://github.com',
+    
+    livePreview: 'https://admin.rokswoodgas.com/',
+  },
+  {
+    name: 'Osnon Academy',
+    description:
+      "This is a school website that showcases the academic calendars, upcoming events, important alerts, school authorities, gallery and admission",   
+    stack: ['WordPress'],
+    // sourceCode: 'https://github.com',
+    
+    livePreview: 'https://osnonacademy.org/',
+  },
+  {
+    name:"Finder's force",
+    description:"Finder's force mobile app is an application for operatives(individuals with the right skill set looking for temp jobs) to apply to jobs  listed on the  platform seamlessly and  allows endless job opportunities for operatives without fear of being underpaid",
+    stack: ["React Native", "TypeScript"],
+    livePreview: 'https://apps.apple.com/bg/app/findersforce-agency-shifts/id6471681754',
+  },
+  {
+    name:"Treepz",
+    description:"Treepz mobile app is an application for users to rent, bargain, and pay for fleets listed on the Treepz platform.",
+    stack: ["React Native", "TypeScript"],
+    livePreview: 'https://apps.apple.com/ng/app/treepz/id1475245410',
+  },
+  {
+    name: "Ify's kitchen",
+    description:
+      'This platform serves as an exclusive engagement hub for all Ify’s kitchen clients, fans and followers. It houses unique and creative content for easy access, and delivers cooking classes without using other platforms and thereby generating constant revenue',
+    stack: ['SASS', 'TypeScript', 'React'],
+    // sourceCode: 'https://github.com',
+    livePreview: 'https://staging.ifyskitchen.com/',
   },
   {
     name: 'Enterprising Ventures of color',
@@ -56,14 +104,7 @@ const projects = [
     // sourceCode: 'https://github.com',
     livePreview: 'https://www.medic.vmcnigeria.com',
   },
-  {
-    name: "Ify's kitchen",
-    description:
-      'This platform serves as an exclusive engagement hub for all Ify’s kitchen clients, fans and followers. It houses unique and creative content for easy access, and delivers cooking classes without using other platforms and thereby generating constant revenue',
-    stack: ['SASS', 'TypeScript', 'React'],
-    // sourceCode: 'https://github.com',
-    livePreview: 'https://staging.ifyskitchen.com/',
-  },
+  
   {
     name: "Learn with us",
     description:
@@ -98,6 +139,7 @@ const skills = [
   'JavaScript',
   'TypeScript',
   'React',
+  'React Native',
   'Redux',
   'SASS',
   'wix',
