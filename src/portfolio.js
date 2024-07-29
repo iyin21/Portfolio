@@ -155,3 +155,4 @@ const contact = {
 }
 
 export { header, about, projects, skills, contact }
+
