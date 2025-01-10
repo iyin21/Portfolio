@@ -24,6 +24,7 @@ const About = () => {
               Resume
             </span>
           </a>
+          // 4.0.3
         )}
 
         {social && (

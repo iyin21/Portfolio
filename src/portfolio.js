@@ -11,7 +11,8 @@ const about = {
   name: 'Iyinoluwa Oluleke',
   role: 'Front End Engineer',
   description:
-    'An enthusiastic front end developer with drive and determination needed to resolve complex issues. Developed commercial applications for service-based businesses. Eager to contribute to team success through hard work, attention to detail and excellent organizational skills. In short I love to create technology with the main goal of solving real-life problems and create value for humanity.',
+    'Result driven front end developer skilled in resolving complex issues and developing commercial applications for service-based businesses. Proven record of developing intuitive and responsive web applications that enhance user experience and drive business growth. Seeking a dynamic and challenging role to challenge myself and contribute to team success',
+    // 'An enthusiastic front end developer with drive and determination needed to resolve complex issues. Developed commercial applications for service-based businesses. Eager to contribute to team success through hard work, attention to detail and excellent organizational skills. In short I love to create technology with the main goal of solving real-life problems and create value for humanity.',
   resume: Resume,
   social: {
     linkedin: 'https://www.linkedin.com/in/iyinoluwa-oluleke-31a51714b/',
@@ -33,6 +34,15 @@ const projects = [
     livePreview: 'https://voriancorelli-frontend-two.vercel.app/',
   },
   {
+    name: "Trenviz",
+    description:
+      "Market prediction platform that leverages advanced probabilistic models and machine learning to generate price forecasts for financial assets.",
+    stack: ['React', 'Tailwind CSS'],
+    // sourceCode: 'https://github.com',
+    
+    livePreview: 'https://www.trenviz.com/',
+  },
+  {
     name: "Finder's force",
     description:
       "A platform that matches operatives(individuals with the right skill set looking for temp jobs) to depots(companies, organizations or individuals interested in listing temp job roles on the platform with the sole aim of linking operatives with the right skillset) seamlessly and  allows endless job opportunities for operatives without fear of being underpaid ",   
@@ -40,6 +50,15 @@ const projects = [
     // sourceCode: 'https://github.com',
     
     livePreview: 'https://ff.iqubesolutions.com.ng',
+  },
+  {
+    name: "Husridge",
+    description:
+      "This is the landing page for a talent management software that enhances management processes and connect people with professional service providers.",
+    stack: ['React', 'Tailwind CSS', 'Tailwind CSS'],
+    // sourceCode: 'https://github.com',
+    
+    livePreview: 'https://www.trenviz.com/',
   },
   {
     name: 'Admin Rokswood Gas',
@@ -51,14 +70,14 @@ const projects = [
     livePreview: 'https://admin.rokswoodgas.com/',
   },
   {
-    name: 'Osnon Academy',
+    name: "Ify's kitchen",
     description:
-      "This is a school website that showcases the academic calendars, upcoming events, important alerts, school authorities, gallery and admission",   
-    stack: ['WordPress'],
+      'This platform serves as an exclusive engagement hub for all Ify’s kitchen clients, fans and followers. It houses unique and creative content for easy access, and delivers cooking classes without using other platforms and thereby generating constant revenue',
+    stack: ['SASS', 'TypeScript', 'React'],
     // sourceCode: 'https://github.com',
-    
-    livePreview: 'https://osnonacademy.org/',
+    livePreview: 'https://staging.ifyskitchen.com/',
   },
+  
   {
     name:"Finder's force",
     description:"Finder's force mobile app is an application for operatives(individuals with the right skill set looking for temp jobs) to apply to jobs  listed on the  platform seamlessly and  allows endless job opportunities for operatives without fear of being underpaid",
@@ -72,12 +91,13 @@ const projects = [
     livePreview: 'https://apps.apple.com/ng/app/treepz/id1475245410',
   },
   {
-    name: "Ify's kitchen",
+    name: 'Osnon Academy',
     description:
-      'This platform serves as an exclusive engagement hub for all Ify’s kitchen clients, fans and followers. It houses unique and creative content for easy access, and delivers cooking classes without using other platforms and thereby generating constant revenue',
-    stack: ['SASS', 'TypeScript', 'React'],
+      "This is a school website that showcases the academic calendars, upcoming events, important alerts, school authorities, gallery and admission",   
+    stack: ['WordPress'],
     // sourceCode: 'https://github.com',
-    livePreview: 'https://staging.ifyskitchen.com/',
+    
+    livePreview: 'https://osnonacademy.org/',
   },
   {
     name: 'Enterprising Ventures of color',
@@ -105,14 +125,14 @@ const projects = [
     livePreview: 'https://www.medic.vmcnigeria.com',
   },
   
-  {
-    name: "Learn with us",
-    description:
-      'This is a platform owned by iQubelabs where people who want to get into start a career in tech can register for a course of their choice..',
-    stack: ['SASS', 'TypeScript', 'React'],
-    // sourceCode: 'https://github.com',
-    livePreview: 'https://lwu.iqubesolutions.com.ng/',
-  },
+  // {
+  //   name: "Learn with us",
+  //   description:
+  //     'This is a platform owned by iQubelabs where people who want to get into start a career in tech can register for a course of their choice..',
+  //   stack: ['SASS', 'TypeScript', 'React'],
+  //   // sourceCode: 'https://github.com',
+  //   livePreview: 'https://lwu.iqubesolutions.com.ng/',
+  // },
   {
     name: "Sxope",
     description:
@@ -121,14 +141,14 @@ const projects = [
     // sourceCode: 'https://github.com',
     livePreview: 'https://orange-reporting.iqubesolutions.com.ng/',
   },
-  {
-    name: "Lendbak",
-    description:
-      'Lendbak is a one stop shop for all things rentals where one can rent with ease and also lease your items for rental.',
-    stack: ['SASS', 'Javscript', 'React'],
-    // sourceCode: 'https://github.com',
-    livePreview: 'https://lendbak.com/',
-  },
+  // {
+  //   name: "Lendbak",
+  //   description:
+  //     'Lendbak is a one stop shop for all things rentals where one can rent with ease and also lease your items for rental.',
+  //   stack: ['SASS', 'Javscript', 'React'],
+  //   // sourceCode: 'https://github.com',
+  //   livePreview: 'https://lendbak.com/',
+  // },
 ]
 
 const skills = [
@@ -142,6 +162,7 @@ const skills = [
   'React Native',
   'Redux',
   'SASS',
+  'wordpress',
   'wix',
   'webflow',
   'Material UI',
