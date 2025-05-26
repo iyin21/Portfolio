@@ -9,9 +9,11 @@ const header = {
 const about = {
   // all the properties are optional - can be left empty or deleted
   name: 'Iyinoluwa Oluleke',
-  role: 'Front End Engineer',
+  role: 'Full Stack Engineer',
   description:
-    'Result driven front end developer skilled in resolving complex issues and developing commercial applications for service-based businesses. Proven record of developing intuitive and responsive web applications that enhance user experience and drive business growth. Seeking a dynamic and challenging role to challenge myself and contribute to team success',
+  "Skilled Full Stack Software Engineer with 5+ years of experience delivering client-facing SaaS web applications, with a strong focus on intuitive front-end development and seamless back-end integration. Proven track record in building responsive, scalable user interfaces and robust APIs that drive user engagement and business growth. Experienced in the full software development lifecycle – from requirements gathering and UX design through to deployment and DevOps – within Agile/Scrum teams. Adept at solving complex problems, optimizing performance, and mentoring team members, with a passion for continuous learning. An intelligent, hardworking team player driven by excellence and growth. Open to remote, hybrid, or on-site opportunities worldwide.",
+
+  // 'Result driven front end developer skilled in resolving complex issues and developing commercial applications for service-based businesses. Proven record of developing intuitive and responsive web applications that enhance user experience and drive business growth. Seeking a dynamic and challenging role to challenge myself and contribute to team success',
     // 'An enthusiastic front end developer with drive and determination needed to resolve complex issues. Developed commercial applications for service-based businesses. Eager to contribute to team success through hard work, attention to detail and excellent organizational skills. In short I love to create technology with the main goal of solving real-life problems and create value for humanity.',
   resume: Resume,
   social: {
@@ -28,7 +30,7 @@ const projects = [
     name: 'Voriancorelli matching app',
     description:
       "Voriancorelli is a agric/food commodities value chain aggregator platform (like a marketplace) to match Commodities Aggregators/Large Scale farmers/Food suppliers (Like Thrive Agric) with Food Processors that need their Supplies (Honeywell, Dangote, Flourmills, etc).",   
-    stack: ['Nextjs', 'TypeScript', 'Tailwind CSS'],
+    stack: ['Nextjs', 'TypeScript', 'Tailwind CSS', "Nodejs", "MongoDB"],
     // sourceCode: 'https://github.com',
     
     livePreview: 'https://voriancorelli-frontend-two.vercel.app/',
@@ -37,7 +39,7 @@ const projects = [
     name: "Trenviz",
     description:
       "Market prediction platform that leverages advanced probabilistic models and machine learning to generate price forecasts for financial assets.",
-    stack: ['React', 'Tailwind CSS'],
+    stack: ['React', 'Tailwind CSS', "Nodejs"],
     // sourceCode: 'https://github.com',
     
     livePreview: 'https://www.trenviz.com/',
@@ -46,7 +48,7 @@ const projects = [
     name: "Finder's force",
     description:
       "A platform that matches operatives(individuals with the right skill set looking for temp jobs) to depots(companies, organizations or individuals interested in listing temp job roles on the platform with the sole aim of linking operatives with the right skillset) seamlessly and  allows endless job opportunities for operatives without fear of being underpaid ",   
-    stack: ['React', 'TypeScript', 'Tailwind CSS'],
+    stack: ['React', 'TypeScript', 'Tailwind CSS', "Nodejs", "MongoDB"],
     // sourceCode: 'https://github.com',
     
     livePreview: 'https://ff.iqubesolutions.com.ng',
@@ -81,13 +83,13 @@ const projects = [
   {
     name:"Finder's force",
     description:"Finder's force mobile app is an application for operatives(individuals with the right skill set looking for temp jobs) to apply to jobs  listed on the  platform seamlessly and  allows endless job opportunities for operatives without fear of being underpaid",
-    stack: ["React Native", "TypeScript"],
+    stack: ["React Native", "TypeScript", "Nodejs"],
     livePreview: 'https://apps.apple.com/bg/app/findersforce-agency-shifts/id6471681754',
   },
   {
     name:"Treepz",
     description:"Treepz mobile app is an application for users to rent, bargain, and pay for fleets listed on the Treepz platform.",
-    stack: ["React Native", "TypeScript"],
+    stack: ["React Native", "TypeScript", "Nodejs","MongoDB"],
     livePreview: 'https://apps.apple.com/ng/app/treepz/id1475245410',
   },
   {
@@ -159,15 +161,19 @@ const skills = [
   'JavaScript',
   'TypeScript',
   'React',
+  'Nodejs',
+  "Expressjs",
   'React Native',
   'Redux',
+  "MongoDB",
+  "MySQL",
   'SASS',
+  "Tailwind CSS",
   'wordpress',
   'wix',
   'webflow',
   'Material UI',
   'Git',
-  'Nodejs'
 ]
 
 const contact = {
