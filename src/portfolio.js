@@ -44,6 +44,25 @@ const projects = [
     
     livePreview: 'https://www.trenviz.com/',
   },
+  
+  {
+    name: "Husridge",
+    description:
+      "This is the landing page for a talent management software that enhances management processes and connect people with professional service providers.",
+    stack: ['React', 'Typescript', 'Tailwind CSS'],
+    // sourceCode: 'https://github.com',
+    
+    livePreview: 'https://www.husridge.com/',
+  },
+  {
+    name: "Husridge",
+    description:
+      "A saas talent-booking and management platform with authentication, calendars, messaging, and workflow automation. It supports agencies, managers, and independent talents by helping them manage bookings, automate communication, and stay organised",
+    stack: ['React', 'Typescript', 'Tailwind CSS', "Nodejs"],
+    // sourceCode: 'https://github.com',
+    
+    livePreview: 'https://www.husridge.com/',
+  },
   {
     name: "Finder's force",
     description:
@@ -52,15 +71,6 @@ const projects = [
     // sourceCode: 'https://github.com',
     
     livePreview: 'https://ff.iqubesolutions.com.ng',
-  },
-  {
-    name: "Husridge",
-    description:
-      "This is the landing page for a talent management software that enhances management processes and connect people with professional service providers.",
-    stack: ['React', 'Tailwind CSS', 'Tailwind CSS'],
-    // sourceCode: 'https://github.com',
-    
-    livePreview: 'https://www.trenviz.com/',
   },
   {
     name: 'Admin Rokswood Gas',
@@ -165,6 +175,7 @@ const skills = [
   "Expressjs",
   'React Native',
   'Redux',
+  "Postgres",
   "MongoDB",
   "MySQL",
   'SASS',
