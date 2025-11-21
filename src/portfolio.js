@@ -46,7 +46,7 @@ const projects = [
   },
   
   {
-    name: "Husridge",
+    name: "Husridge Landing Page",
     description:
       "This is the landing page for a talent management software that enhances management processes and connect people with professional service providers.",
     stack: ['React', 'Typescript', 'Tailwind CSS'],
@@ -61,7 +61,7 @@ const projects = [
     stack: ['React', 'Typescript', 'Tailwind CSS', "Nodejs"],
     // sourceCode: 'https://github.com',
     
-    livePreview: 'https://www.husridge.com/',
+    livePreview: 'https://projectx-gamma.vercel.app/',
   },
   {
     name: "Finder's force",
