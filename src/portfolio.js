@@ -61,7 +61,7 @@ const projects = [
     stack: ['React', 'Typescript', 'Tailwind CSS', "Nodejs"],
     // sourceCode: 'https://github.com',
     
-    livePreview: 'https://projectx-gamma.vercel.app/',
+    livePreview: 'https://app.husridge.com/',
   },
   {
     name: "Finder's force",
