@@ -64,6 +64,24 @@ const projects = [
     livePreview: 'https://app.husridge.com/',
   },
   {
+    name: 'Osnon Academy',
+    description:
+      "This is a school website that showcases the academic calendars, upcoming events, important alerts, school authorities, gallery and admission",   
+    stack: ['WordPress'],
+    // sourceCode: 'https://github.com',
+    
+    livePreview: 'https://osnonacademy.org/',
+  },
+  {
+    name: 'Enterprising Ventures of color',
+    description:
+      "Enterprising Ventures of color is a platform for empowering nonprofits, and Catalyzing change",   
+    stack: ['Wix'],
+    // sourceCode: 'https://github.com',
+    
+    livePreview: 'https://www.enventofcolor.com/',
+  },
+  {
     name: "Finder's force",
     description:
       "A platform that matches operatives(individuals with the right skill set looking for temp jobs) to depots(companies, organizations or individuals interested in listing temp job roles on the platform with the sole aim of linking operatives with the right skillset) seamlessly and  allows endless job opportunities for operatives without fear of being underpaid ",   
@@ -102,24 +120,8 @@ const projects = [
     stack: ["React Native", "TypeScript", "Nodejs","MongoDB"],
     livePreview: 'https://apps.apple.com/ng/app/treepz/id1475245410',
   },
-  {
-    name: 'Osnon Academy',
-    description:
-      "This is a school website that showcases the academic calendars, upcoming events, important alerts, school authorities, gallery and admission",   
-    stack: ['WordPress'],
-    // sourceCode: 'https://github.com',
-    
-    livePreview: 'https://osnonacademy.org/',
-  },
-  {
-    name: 'Enterprising Ventures of color',
-    description:
-      "Enterprising Ventures of color is a platform for empowering nonprofits, and Catalyzing change",   
-    stack: ['Wix'],
-    // sourceCode: 'https://github.com',
-    
-    livePreview: 'https://www.enventofcolor.com/',
-  },
+  
+  
   {
     name: 'Virtual Medic Clinic(patient)',
     description:
