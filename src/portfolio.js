@@ -60,8 +60,9 @@ const projects = [
       "A saas talent-booking and management platform with authentication, calendars, messaging, and workflow automation. It supports agencies, managers, and independent talents by helping them manage bookings, automate communication, and stay organised",
     stack: ['React', 'Typescript', 'Tailwind CSS', "Nodejs"],
     // sourceCode: 'https://github.com',
-    
     livePreview: 'https://app.husridge.com/',
+    
+    
   },
   {
     name: 'Osnon Academy',
